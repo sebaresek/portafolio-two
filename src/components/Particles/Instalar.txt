@@ -1,0 +1,9 @@
+En primer lugar, debe instalar 
+
+npm i react-tsparticles
+npm i tsparticles
+
+
+si aparece algún error heredado, use –force
+npm i react-tsparticles --force
+npm i tsparticles --force
